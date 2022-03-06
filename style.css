@@ -1,0 +1,80 @@
+.container{
+    background-color: aliceblue;
+    padding-top: 55px;
+    padding-bottom: 118px;
+    padding-right: 130px;
+    padding-left: 130px;
+    margin-top: 2%;
+    margin-bottom: 9%;
+    margin-right: 100%;
+    margin-left:200% ;
+    box-shadow: 10px 20px 3px 0px #0000007a;
+    height: 28px;
+    width: 380px;
+    border-radius: 100px;
+    justify-content: center space-evenly;
+}
+h5{
+    height: 80px;
+    margin-top: 1px;
+    margin-left: 20%;
+    margin-right: 10%;
+    font-family: Bold;
+    font-size: 300%;
+    font-weight:100 px;
+    justify-content: center;
+    background-color: aliceblue;
+}
+h1{
+    height: 8px;
+    margin-top: 1px;
+    margin-left: 35%;
+    margin-right: 50%;
+    font-family: Italic;
+    font-size: 80%;
+    font-weight:100 px;
+    justify-content: center;
+}
+hr{
+    border: 10px solid aliceblue;
+    margin-bottom: 3px;
+    width: 100px;;
+}
+.userProfile{
+    border-radius:1%;
+    background-color: whitesmoke;
+    align-items: center;
+}
+
+h3{
+    height: 8px;
+    margin-right: 100px;
+    margin-left: 35%;
+    margin-right: 50%;
+    font-family: Italic;
+    font-size: 80%;
+    font-weight:100 px;
+    justify-content: center;
+}
+
+.tank{
+    background-color: aliceblue;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-right: 0px;
+    padding-left: 100px;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-right: 300%;
+    margin-left: -200%;
+    box-shadow: 10px 20px 3px 0px #0000007a;
+    width: 280px;
+    border-radius: 100px;
+    justify-content: center space-evenly;
+}
+
+.tankobject{
+    width:100px;
+    background-color: whitesmoke;
+    justify-content: center space-evenly;
+}
